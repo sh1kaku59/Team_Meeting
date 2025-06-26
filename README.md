@@ -1,7 +1,6 @@
 # doan_discord
 
 A new Flutter project.
-jsjsdfhjkdhfjkshdjk
 ## Getting Started
 ádasdasda
 This project is a starting point for a Flutter application.
