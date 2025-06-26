@@ -7,6 +7,7 @@ class FriendListScreen extends StatelessWidget {
       child: Text(
         'Danh sách bạn bè',
         style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold),
+        style: TextStyle(fontSize: 100, fontWeight: FontWeight.medium, color: Colors.blue),
       ),
     );
   }
