@@ -28,7 +28,7 @@ class _DemoScreenState extends State<DemoScreen> {
     super.initState();
     recorder.openRecorder();
     player.openPlayer(); // Mở FlutterSoundPlayer
-    print("Recorder and Player initialized");
+    print("Recorder and Player");
   }
 
   Future<void> startRecording() async {
@@ -50,7 +50,7 @@ class _DemoScreenState extends State<DemoScreen> {
     setState(() {
       isRecording = true;
     });
-    print("Recording started");
+    print("Recording started ");
   }
 
   Future<void> stopRecording() async {
